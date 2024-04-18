@@ -1,2 +1,3 @@
 # Reposit-rio-de-J-o-Vitu
-Testezinho 
+Este respositório será utilizado para 
+guardar as aulas de python
